@@ -1,0 +1,9 @@
+.ReAuth.cfg
+.curseclient
+crafttweaker.log
+journeymap/*
+logs/*
+saves/*
+usercache.json
+usernamecache.json
+valkyrielib/*
